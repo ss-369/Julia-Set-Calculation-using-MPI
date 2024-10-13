@@ -1,6 +1,5 @@
 # Julia-Set-Calculation-using-MPI
 
-# Julia Set
 
 ## Description
 
